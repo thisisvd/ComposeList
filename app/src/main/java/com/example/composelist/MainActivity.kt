@@ -19,6 +19,8 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
 
+            // This is a commit 1
+
             // We use Column Scrollable for less no of elements
 //            // state
 //            val scrollState = rememberScrollState()
