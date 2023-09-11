@@ -19,8 +19,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
 
-            // Commit now
-            // This is a commit 1
+            // This is a 2nd branch commit
 
             // We use Column Scrollable for less no of elements
 //            // state
