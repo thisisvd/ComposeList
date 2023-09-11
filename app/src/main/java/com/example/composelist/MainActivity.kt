@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
 
-            // Test 1
+            // Testophobia
 
             // We use Column Scrollable for less no of elements
 //            // state
